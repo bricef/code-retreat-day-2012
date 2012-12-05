@@ -1,7 +1,0 @@
-{
-  "name": "code-retreat-2012",
-  "version": "0.0.1",
-  "dependencies": {
-    "coffee-script": "1.4.0"
-  }
-}
